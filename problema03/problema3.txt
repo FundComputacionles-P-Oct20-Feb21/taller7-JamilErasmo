@@ -1,0 +1,17 @@
+problema 3
+
+1.inicio
+2.contador, i[0, n]
+3.contador2, i[0, n]
+4.cadenaF, x(200)[{1-9},{a-z},{A-Z},{BS}]<--""
+//proceso
+5.mientras(contador <=10)entonces
+6. si (contador2 MOD 2== 1)entonces
+7.cadenaF = cadenaF + "+1/" contador
+8.de lo contrario
+9.cadenaF = cadenaF + "-1" + contador 
+10.fin si
+11.contador <-- contador + 2 
+12.contador2 < contador + 1
+13.fin mientras
+14. fin

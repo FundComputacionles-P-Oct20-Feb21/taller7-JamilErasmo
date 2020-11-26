@@ -1,0 +1,10 @@
+Problema 1
+1.inicio
+2.contador, d[0, n]
+3.mientras contador <= 10 entonces
+4.si (contador MOD 2)==0 entonces
+5. Escribir "-1/"+ contador
+6. fin si
+7. contador = contador +1
+8.fin mientras
+9.fin

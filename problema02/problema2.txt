@@ -1,0 +1,7 @@
+problema 2
+1_ Inicio
+2_ contador, i[0, n]<--1
+3_ Para(contador<--1; contador<=10, 2)
+4_	Escribir "1/" +contador
+5_ Fin_Para
+6_ Fin
